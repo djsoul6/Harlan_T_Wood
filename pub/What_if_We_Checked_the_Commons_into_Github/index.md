@@ -41,7 +41,7 @@ If the forking of content takes off like the forking of code has, there will be 
 
 ## It's not just GitHub
 
-While GitHub would love this, and is the most appropriate current platform that I know of, there are other serious players appearing in the fork/diff/merge space.  Most notably, Ward Cunningham, inventor of Wiki, has released a new open source [Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki#readme) (biased author alert: I did a bunch of work on this project).  A key excerpt from a [Wired article](http://www.wired.com/wiredenterprise/2012/07/wiki-inventor/) on FedWiki:
+While GitHub is the most promising platform that I know of, there are other serious players emerging in the fork/diff/merge space.  Most notably on my own radar, Ward Cunningham, inventor of Wiki, has released a new open source [Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki#readme) (biased author alert: I (Harlan) did a bunch of work on this project).  A key excerpt from a [Wired article](http://www.wired.com/wiredenterprise/2012/07/wiki-inventor/) on FedWiki:
 
 > Cunningham’s vision is that you will have your own wiki, perhaps several wikis. When you see a page on someone else’s federated wiki that you want to edit, you can click "fork," and the page is copied into your own wiki where you can edit it. The owner of the original wiki can then decide whether to merge your changes into the original page.
 
@@ -49,6 +49,4 @@ While GitHub would love this, and is the most appropriate current platform that 
 
 Distributed version control is key to enabling massive knowledge sharing and collaboration. It gives individuals power over their content, a reliable way to manage it, and documents authorship in a cryptographically verifiable log to give credit where credit is due.
 
-Distributed version control must be learned by non programmers.
-
-What if not every brush stroke in the Mona Lisa were applied by Leonardo? What if every art school student could rewind the painting to where it was half done and finish it themselves? What if this new millenium saw new works of such significance with thousands of artists involved, all working in parallel, all merged together into one cultural artifact to embody lifetimes of creativity? Let's start with our creative commons and public domain text.
+What if this new millennium saw new works of great cultural significance with thousands of artists involved, all working in a hive of collaboration, all merged together into one cultural artifact to embody lifetimes worth of creativity? Let's start with our creative commons and public domain content. Let's start now.
