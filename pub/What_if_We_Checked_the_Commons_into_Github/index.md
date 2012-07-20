@@ -8,7 +8,7 @@ Not all of the commons, mind you,  and not all at once. But each of our little s
 
 Why should programmers have a monopoly on the paradigm shifting technologies and new information topologies known to the open source software world as forking, diffing, and merging?
 
-I'll say it again,  because I'm not kidding.  I'm not making a rhetorical point.
+I'll say it again, because I'm not kidding.  I'm not making a rhetorical point.
 
 _What if we checked the commons into GitHub?_      
 
