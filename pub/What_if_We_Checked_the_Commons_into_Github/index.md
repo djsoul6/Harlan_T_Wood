@@ -1,7 +1,6 @@
 ---
 title: "What if we checked the commons into GitHub?"
-authors: Harlan T Wood
-         Travis F Wellman
+authors: Harlan T Wood, Travis F Wellman
 layout: page
 ---
 
