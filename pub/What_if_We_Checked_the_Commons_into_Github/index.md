@@ -14,7 +14,7 @@ _What if we checked the commons into GitHub?_
 
 ## Open Source Everything
 
-What if in our collaborations around open hardware designs, open corporate systems, open government models, open solutions to our biggest challenges -- what if we could fork each other's content and offer these changes back to the original authors, just as programmers can today with GitHub's pull requests?
+Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges.  Imagine that we could fork each other's content and offer these changes back to the original authors, just as programmers can today with GitHub's pull requests?
 
 What is the commons were a space of global-scale remixing, a living symphony, a thriving ecosystem of creativity and innovation, built on a substrate of proliferation and organic evolution?
 
@@ -30,7 +30,7 @@ We can have this now.
 
 4. Invite others to collaborate.  The commons should be a space for creative play.   
 
-One and two I'm working on, in the context of a project called [Software Zero](http://enlightenedstructure.org/Software_Zero/) -- currently pre-alpha and fit only for ruby coders.  [Contact me](https://github.com/harlantwood) if you want to play.  Three and four are dead easy.
+Numbrs one and two I'm working on, in the context of a project called [Software Zero](http://enlightenedstructure.org/Software_Zero/) -- currently pre-alpha and fit only for ruby coders.  [Contact me](https://github.com/harlantwood) if you want to play.  Numbers three and four are easy.
 
 ## What's in it for GitHub?
 
