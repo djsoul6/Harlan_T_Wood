@@ -24,7 +24,7 @@ We can have this now.
 
 1. Crawl your trust network, gathering creative commons (or similarly licensed) content from the sites of interest to you.
 
-2. HTML is painful to diff and merge -- so strip the content down to plain text, or a same format like markdown.
+2. HTML is painful to diff and merge -- so strip the content down to plain text, or a same format like [markdown](http://daringfireball.net/projects/markdown/).
 
 3. Curate your content collections -- this could be as simple as a blog post announcing a new collection of remixable content.
 
