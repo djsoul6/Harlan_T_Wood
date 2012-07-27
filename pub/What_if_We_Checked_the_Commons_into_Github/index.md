@@ -14,7 +14,7 @@ _What if we checked the commons into GitHub?_
 
 ## Open Source Everything
 
-Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges.  Imagine that we could fork each other's content and offer these changes back to the original authors, just as programmers can today with GitHub's pull requests?
+Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges.  Imagine that we could fork each other's content and offer these changes back to the original authors, just as programmers can today with GitHub's pull requests.
 
 What if the commons were a space of global-scale remixing, a living symphony, a thriving ecosystem of creativity and innovation, built on a substrate of proliferation and organic evolution?
 
