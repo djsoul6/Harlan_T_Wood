@@ -50,3 +50,20 @@ While GitHub is the most promising platform that I know of for these purposes, a
 Distributed version control is key to enabling massive knowledge sharing and collaboration. It gives individuals power over their content and a reliable way to manage it, and it documents authorship in a cryptographically verifiable log to give credit where credit is due.
 
 What if this new millennium saw new works of great cultural significance with thousands of artists involved, all working in a hive of collaboration, all merged together into one cultural artifact to embody lifetimes worth of creativity? Let's start with our creative commons and public domain content. Let's start now.
+
+
+
+
+<hr />
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'harlantwood'; 
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
