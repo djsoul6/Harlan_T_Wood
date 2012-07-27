@@ -2,12 +2,17 @@
 layout: page
 ---
 
+[What if we checked the commons into GitHub?][] Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges.  Imagine the commons as a space of global-scale remixing, a living symphony, a thriving ecosystem of creativity and innovation, built on a substrate of proliferation and organic evolution.
+
 [Software Zero][]: A global-scale collaboration platform for swarm intelligence around a project, which retains the edits and contributions of every author throughout the history of the interweaving. This "branching" or "forking" of creative works encourages a diversity of perspectives in creative networks of any scale.
 
 [Spiritual Transhumanism][]: The time is coming fast where our world will be teeming with nanotechnology-enhanced bodies, group minds, and a merging of organic and electronic intelligences.  This imminent age of physical immortality carries both promises undreamt of, and grave threats both technological and spiritual.  People will rise to bridge this gap &#8212; people willing to embrace and experiment with evolutionary pathways in which the spiritual and technological meet.  
  
 [Human Potential][]: I have been lucky to study with some extraordinary spiritual teachers, transformational schools, and perfection systems. 
                                  
+                                                                                                       
+                                                
+[What if we checked the commons into GitHub?]: ../What_if_We_Checked_the_Commons_into_Github/index.html
 
 [Software Zero]: http://enlightenedstructure.org/Software_Zero/
 [Fork This]: ../Fork_This
