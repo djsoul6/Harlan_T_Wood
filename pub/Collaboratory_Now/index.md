@@ -32,7 +32,7 @@ This will fork the repository for you, and let you change it as you wish.  As an
 Collaboratory Now
 -----------------
 
-I am personally getting pretty fed up with our collective scenius leaking out in dribbles across hundreds of facebook threads that are subsequently unfindable unless you look in +Zaq Mosher's google docs ( <https://docs.google.com/folder/d/0B5PC4hPnRiAYWUpkQmRkOEUwN1k/edit?pli=1> ) {sad face}.   I also have major concerns about the ownership of the IP generated in FB. My ideal would be to generate material in a "collaboratory" elsewhere (I vote for github or better to start), and cross-post content or links to FB / G+ / T / statusnet / etc.
+I am personally getting pretty fed up with our collective scenius leaking out in dribbles across hundreds of facebook threads that are subsequently unfindable unless you they are indexed in [Zaq Mosher's google docs](https://docs.google.com/folder/d/0B5PC4hPnRiAYWUpkQmRkOEUwN1k/edit?pli=1) {sad face}.   I also have major concerns about the ownership of the IP generated in FB. My ideal would be to generate material in a "collaboratory" elsewhere (I vote for github or better to start), and cross-post content or links to FB / G+ / T / statusnet / etc.
   
 _Q: What do I mean by collaboratory?_                                    
 
@@ -75,9 +75,9 @@ Venessa also wrote about the concept in her post [Intentcasting an Epic Vision: 
 Let's Get Forking
 -----------------
 
-Github is just one option.  We can (and probably should) have an entire ecosystem of collaboratories, utilizing the strengths of each, and sharing collaborations between systems as desired.  The downside of github seems to be that it's a bit intimidating for non-programmers, even though the actual mechanics of using it are now quite simple and streamlined.  The upside is that it's ready now.  No programming of new systems required.  Get an account and be collaborating 30 seconds from now.
+Github is just one option.  We can (and probably should) have an entire ecosystem of collaboratories, utilizing the strengths of each, and sharing collaborations between systems as desired.  The downside of github seems to be that it's a bit intimidating for non-programmers, even though the [actual mechanics of using it are now quite simple and streamlined](https://github.com/harlantwood/The_Project/blob/master/Collaborating-Like-a-Hacker.markdown).  The upside is that it's ready now.  No programming of new systems required.  Get an account and be collaborating 30 seconds from now.
 
-I'd be happy to do calls to demo and train collaborators in the github + prose.io toolchain. We could do the call on G+, and be forking each other's systems (oh my) during the call, giving tech support as needed, etc.  Want to play?
+I'd be happy to do calls to demo and train collaborators in the github + prose.io toolchain. We could do the call on G+, and be forking each other's systems during the call, giving tech support as needed, etc.  Want to play?
 
 
 
