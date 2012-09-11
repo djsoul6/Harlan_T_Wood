@@ -2,6 +2,8 @@
 layout: page
 ---
 
+[Collaboratory Now][] I am personally getting pretty fed up with our collective scenius leaking out in dribbles across hundreds of facebook threads that are subsequently unfindable unless you look in a helpfully compiled google doc {sad face}. Let's generate material in a "collaboratory", and cross-post content or links to our social networks, which we can think of as utilities.
+
 [What if we checked the commons into GitHub?][] Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges.  Imagine the commons as a space of global-scale remixing, a living symphony, a thriving ecosystem of creativity and innovation, built on a substrate of proliferation and organic evolution.
 
 [Software Zero][]: A global-scale collaboration platform for swarm intelligence around a project, which retains the edits and contributions of every author throughout the history of the interweaving. This "branching" or "forking" of creative works encourages a diversity of perspectives in creative networks of any scale.
@@ -11,7 +13,8 @@ layout: page
 [Human Potential][]: I have been lucky to study with some extraordinary spiritual teachers, transformational schools, and perfection systems. 
                                  
                                                                                                        
-                                                
+
+[Collaboratory Now]: ../Collaboratory_Now/index.html
 [What if we checked the commons into GitHub?]: ../What_if_We_Checked_the_Commons_into_Github/index.html
 
 [Software Zero]: http://enlightenedstructure.org/Software_Zero/
