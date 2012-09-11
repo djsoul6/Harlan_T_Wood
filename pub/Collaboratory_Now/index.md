@@ -23,6 +23,7 @@ Here is what the markdown source that generates the document looks like:   <http
 If you want to try editing / remixing, I *highly* recommend [prose.io](http://prose.io/), which connects directly to your github account (which is free, dead simple signup in 15 seconds).
 
 To test this concept (please do!): 
+  
 1. create a github account
 2. go here <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown> and click the Edit button. 
 
