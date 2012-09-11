@@ -31,10 +31,7 @@ main() {
   open_in_vim
 }
 
-assert_title_was_given() {   
-  echo "~"
-  echo "$title"
-  echo "~"
+assert_title_was_given() {
   if [ -z $title ]; then
     echo "No slug given!"
     return 1
