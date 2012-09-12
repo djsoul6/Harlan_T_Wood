@@ -17,21 +17,23 @@ I've been putting together a document called "Core Nexus" recently, which gather
 
 OK, a bit of context here.  I wrote a post recently asking [What if we checked the commons into GitHub?](http://www.harlantwood.net/pub/What_if_We_Checked_the_Commons_into_Github/index.html)
 
-Collaborate: fork, diff, merge
-------------------------------
+> Imagine a new level of collaboration around open corporate and organizational systems, open government models, open solutions to our biggest challenges. Imagine that we could fork each other’s content and offer these changes back to the original authors, just as programmers can today with GitHub’s pull requests.
 
 So naturally, I am authoring this "Core Nexus" document in Github,  as I believe it to be a prime candidate for remixing -- ie we need luminous cores, for all our fractal collaboration groups and organizations, and we want gather, curate, and remix each others' collections of best practices.
 
-You can see the rendered document on Github here:   <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown>
+Collaborate: fork, diff, merge
+------------------------------
 
-Here is what the markdown source that generates the document looks like:   <https://raw.github.com/harlantwood/The_Project/master/Core_Nexus.markdown>
+Here is the markdown source of the Core Nexus:   <https://raw.github.com/harlantwood/The_Project/master/Core_Nexus.markdown>
+
+You can see the rendered document on Github here:   <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown>
 
 If you want to try editing / remixing, I *highly* recommend [prose.io](http://prose.io/), which connects directly to your github account (which is free, dead simple signup in 15 seconds).
 
 To test this concept (please do!): 
   
 1. create a github account
-2. go here <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown> and click the Edit button. 
+2. go here <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown> and **click** the Edit button. 
 
 This will fork the repository for you, and let you change it as you wish.  As an example, here are the additions that [Glistening Deepwater](http://allisasis.com/) made in her fork: <https://github.com/Glisten/The_Project/compare/4f7957a...66d70f6>
 
