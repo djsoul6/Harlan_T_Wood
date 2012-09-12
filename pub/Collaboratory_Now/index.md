@@ -29,25 +29,6 @@ To test this concept (please do!):
 
 This will fork the repository for you, and let you change it as you wish.  As an example, here are the additions that +Glistening Deepwater made in her fork: <https://github.com/Glisten/The_Project/compare/4f7957a...66d70f6>
 
-Why Not Facebook?
------------------
-
-I am personally getting pretty fed up with our collective [scenius](http://www.kk.org/thetechnium/archives/2008/06/scenius_or_comm.php) leaking out in dribbles across hundreds of Facebook threads that are subsequently unfindable unless they are indexed in [Zaq Mosher's google docs](https://docs.google.com/folder/d/0B5PC4hPnRiAYWUpkQmRkOEUwN1k/edit?pli=1) {sad face}.  
-
-I also have major concerns about the ownership of the IP generated in FB.     
-
-[ToS;DR (Terms of Service; Didn't Read)](http://tos-dr.info/) has this to say about Facebook's "very broad copyright license on your content":
-
-> The copyright license that you grant to Facebook goes beyond the requirements for operating the service. For instance, it includes the right for Facebook to transfer the license or to license it others on their terms (“sublicense”). Also, the copyright license does not end when you stop using the service unless your content has been deleted by everyone else.
-
-Following their "discussion" link took me to [Hugo Roy](http://hugoroy.eu/index.en.html) recapitulating Facebook's copyright license: 
-
-> You grant us a non-exclusive, transferable, sub-licensable, 
-> royalty-free, worldwide license to use any IP content that you 
-> post on or in connection with Facebook (IP License). 
-
-So. Lets make our great works elsewhere.
-
 Collaboratory Now
 -----------------
 
