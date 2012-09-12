@@ -34,7 +34,7 @@ To test this concept (please do!):
 1. create a github account
 2. go here <https://github.com/harlantwood/The_Project/blob/master/Core_Nexus.markdown> and click the Edit button. 
 
-This will fork the repository for you, and let you change it as you wish.  As an example, here are the additions that +Glistening Deepwater made in her fork: <https://github.com/Glisten/The_Project/compare/4f7957a...66d70f6>
+This will fork the repository for you, and let you change it as you wish.  As an example, here are the additions that [Glistening Deepwater](http://allisasis.com/) made in her fork: <https://github.com/Glisten/The_Project/compare/4f7957a...66d70f6>
 
 Why Not Facebook?
 -----------------
