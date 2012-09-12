@@ -7,7 +7,14 @@ layout: page
 The Core Nexus
 --------------
 
-I've been putting together a document called "Core Nexus" recently, which pulls together the best practices I know of from several systems, including those of [Better Means](http://bettermeans.com/front/index.html), Jim and Michele McCarthy's [Core Protocols](http://liveingreatness.com/), and more. 
+I've been putting together a document called "Core Nexus" recently, which gathers the best practices I know of from several bodies of work, linking directly to the systems and processes that are the luminous operational cores of each system.  A sample:
+
+> **Team Level**: [Core Protocols](http://liveingreatness.com/files/core-protocols-3.03.html) or better
+> 
+> **Organization Level**: [Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf) or better
+>     
+> **Sharing Credit & Wealth**: [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better                   
+
 
 Collaborate: fork, diff, merge
 ------------------------------
