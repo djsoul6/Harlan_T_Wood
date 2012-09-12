@@ -67,13 +67,13 @@ So. Lets make our great works elsewhere.
 Collaboratory Now
 -----------------
 
-From Wikipedia:
-
-> A collaboratory, as defined by William Wulf in 1989, is a “center without walls, in which the nation’s researchers can perform their research without regard to physical location, interacting with colleagues, accessing instrumentation, sharing data and computational resources, and accessing information in digital libraries” 
-
 [Zaq Mosher](https://plus.google.com/117732747303095811637/posts) and friends are working on one: <http://www.facebook.com/collaboratori>
 
 [Venessa Miemis](http://emergentbydesign.com/) and friends (including myself) were working in one, now mostly dormant: <https://collaboratory.atlassian.net/>
+
+Wikipedia reports:
+
+> A collaboratory, as defined by William Wulf in 1989, is a “center without walls, in which the nation’s researchers can perform their research without regard to physical location, interacting with colleagues, accessing instrumentation, sharing data and computational resources, and accessing information in digital libraries” 
 
 Venessa also wrote about the concept in her post [Intentcasting an Epic Vision: How to Bootstrap Creative Economy 3.0](http://emergentbydesign.com/2012/01/16/intentcasting-an-epic-vision-how-to-bootstrap-creative-economy-3-0/).  Some excerpts:
 
