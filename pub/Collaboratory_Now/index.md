@@ -15,11 +15,10 @@ I've been putting together a document called "Core Nexus" recently, which gather
 >     
 > **Sharing Credit & Wealth**: [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better                   
 
+OK, a bit of context here.  I wrote a post recently asking [What if we checked the commons into GitHub?](http://www.harlantwood.net/pub/What_if_We_Checked_the_Commons_into_Github/index.html)
 
 Collaborate: fork, diff, merge
 ------------------------------
-
-OK, a bit of context here.  I wrote a post recently asking [What if we checked the commons into GitHub?](http://www.harlantwood.net/pub/What_if_We_Checked_the_Commons_into_Github/index.html)
 
 So naturally, I am authoring this "Core Nexus" document in Github,  as I believe it to be a prime candidate for remixing -- ie we need luminous cores, for all our fractal collaboration groups and organizations, and we want gather, curate, and remix each others' collections of best practices.
 
@@ -52,7 +51,8 @@ I also have major concerns about the ownership of the IP generated in FB.
 "very broad copyright license on your content":
 
 > The copyright license that you grant to Facebook goes beyond the requirements for operating the 
-> service. For instance, it includes the right for Facebook to transfer the license or to license > > it others on their terms (“sublicense”). Also, the copyright license does not end when you stop 
+> service. For instance, it includes the right for Facebook to transfer the license or to license
+> it others on their terms (“sublicense”). Also, the copyright license does not end when you stop 
 > using the service unless your content has been deleted by everyone else.
 
 Following their "discussion" link took me to [Hugo Roy](http://hugoroy.eu/index.en.html) 
