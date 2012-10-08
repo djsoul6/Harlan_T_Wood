@@ -1,0 +1,24 @@
+{% if site.html_pages.size > 0 %}
+<section>
+  <h1>Contents</h1>
+  <ul id="pages">
+
+  {% include set_max_rank %}
+  {% for rank in (1..max_rank) %}
+    {% for content_page in site.html_pages %}
+      {% if content_page.rank == rank %}
+        {% if content_page.layout == 'page' %}
+          {% if content_page.status != 'unlisted' %}
+            {% if content_page.title %}
+              <li class="post">
+                <a href="#{{ content_page.title | replace: ' ', '-' }}">{{ content_page.title }}</a>
+              </li>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
