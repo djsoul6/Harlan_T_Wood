@@ -1,5 +1,3 @@
 #!/bin/bash
 
-rm -rf _site && \
-jekyll --pygments && \
-rsync -avz --delete _site/ gs@harlantwood.net:harlantwood.net
+./bin/make && rsync -avz --delete _site/ gs@harlantwood.net:harlantwood.net

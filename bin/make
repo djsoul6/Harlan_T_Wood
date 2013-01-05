@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# make resume
+./bin/resmake
+
+# Use Jekyll to generate most of site:
+rm -rf _site
+jekyll --pygments
+                                       
