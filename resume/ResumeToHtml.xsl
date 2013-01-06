@@ -184,7 +184,7 @@
   </xsl:template>
   
   <xsl:template match="level">
-    <p><b><xsl:value-of select="@name" /></b> in<xsl:text> </xsl:text><xsl:apply-templates select="technology" /></p>
+    <p><b><xsl:value-of select="@name" /></b>:<xsl:text> </xsl:text><xsl:apply-templates select="technology" /></p>
   </xsl:template>
   
   <xsl:template match="technology">
@@ -201,7 +201,7 @@
   </xsl:template>
   
   <xsl:template match="link">
-    <a href="{@href}"><small><xsl:value-of select="node()" /></small></a>
+    <a href="{@href}"><xsl:value-of select="node()" /></a>
   </xsl:template>
   
   <xsl:template match="points">
@@ -281,7 +281,7 @@
   </xsl:template>
   
   <xsl:template match="taskExample">
-    <small>[<a href="javascript:void(0)" onclick="javascript:window.open('{@url}','Example_From_Resume_HKW','toolbar=1,location=1,directories=0,status=0,1enubar=0,1crollbars=1,resizable=1,width={@width},height={@height}');"><xsl:apply-templates select="@linkText" /></a>]</small>
+    <small>[<a href="javascript:void(0)" onclick="javascript:window.open('{@url}','Example_From_Resume_HTW','toolbar=1,location=1,directories=0,status=0,1enubar=0,1crollbars=1,resizable=1,width={@width},height={@height}');"><xsl:apply-templates select="@linkText" /></a>]</small>
   </xsl:template>
   
   <xsl:template match="testimonial">

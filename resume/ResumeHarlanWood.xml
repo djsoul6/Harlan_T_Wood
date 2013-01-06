@@ -5,30 +5,29 @@
 
   <contact name="Harlan T Wood" email="yes@harlantwood.net" location="San Francisco, CA" />
 
-  <section name="Contract Agile Rails Developer">
+  <section name="Consultant to Luminous Projects">
 
-    <text>
-      I have great respect for the agile &amp; lean toolkits; 
-      I have driven the adoption of 
-      automated testing, 
-      continuous integration, 
-      code quality visualizations, 
-      executable plain text specifications,
-      and formal process improvement.  
-
-      I balance my technical interests with creative pursuits.
-
-      I am an inspired human, and I bring this inspiration to all my projects, personal and professional.
-    </text>                                                                       
-
-    <subsection name="Key Offerings">
+    <testimonial>
+      <testimonialText>                                
+        <general><strong>
+          "Harlan is an expert agile leader and software craftsman. He is gifted at perceiving business value, establishing processes to actualize it, and leading cross-team conversations to support it. He has an impeccable personal integrity that generates good will, good results, and good luck. I value any opportunity to work with Harlan and I recommend him highly."
+        </strong></general>
+      </testimonialText>
+      <clientName>Noah Thorp</clientName>
+      <clientTitle>VP Engineering</clientTitle>
+      <company>SharesPost</company>                
+    </testimonial>
+    
+    <subsection>
       <points>
-        <point>Project management emphasizing simplicity and transparency</point>
-        <point>Hub of collaboration and visibility between developers and executives</point>
+        <point>Co-founder of <link href="http://enlightenedstructure.org/">Enlightened Structure</link>; lead developer of <link href="http://enlightenedstructure.org/Software_Zero/">Software Zero</link> collaboration platform</point>
+        
+        <point>Active contributor to open source projects, notably Ward Cunningham's Smallest Federated Wiki <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204">[1]</link> <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/221">[2]</link></point>
         <point>Agile development &#38; coaching: test driven development, pair programming, etc</point>
-        <point>Continuous code integration, outputting metrics and visualizations</point>
-        <point>Lightweight just-in-time planning and scoping</point>
         <point>Specializing in Ruby on Rails</point>
+        <point>Project management emphasizing simplicity and transparency</point>
+        <point>Continuous integration, outputting metrics and visualizations</point>
+        <point>Lightweight, just-in-time planning and scoping</point>
       </points>
     </subsection> 
 
@@ -41,52 +40,29 @@
       <clientName>Christina Wodtke</clientName>
       <clientTitle>Principal Product Manager</clientTitle>
       <company>LinkedIn</company>                
-      <testimonialUnedited></testimonialUnedited>
     </testimonial>
     
-    <testimonial>
-      <testimonialText>                                
-        <general><strong>
-          "Harlan is an expert agile leader and software craftsman. He is gifted at perceiving business value, establishing processes to actualize it, and leading cross-team conversations to support it. He has an impeccable personal integrity that generates good will, good results, and good luck. I value any opportunity to work with Harlan and I recommend him highly."
-        </strong></general>
-      </testimonialText>
-      <clientName>Noah Thorp</clientName>
-      <clientTitle>CTO</clientTitle>
-      <company>Sessionex</company>                
-      <link href="#Recommendations">[more recommendations]</link>
-      <testimonialUnedited>
-      </testimonialUnedited>
-    </testimonial>
-    
-    <!-- ” August 24, 2008
-
-    , Partner/Consultant, 
-    managed Harlan at Internaut Design     -->
-
   </section> 
 
-  <section name="My Ideal Next Job">
+  <section name="Seeking">
     <points>
-      <!-- <point>An environment supportive of rigorous testing, regular refactoring, and serious software craftsmanship</point>
-      <point>A place where creativity and originality are welcomed and valued</point> -->
-      <point>Making a positive impact on the world through technology</point>
-      <point>Management and executives enable, empower, and open doors</point>
-      <point>A friendly, collaborative, mutually supportive environment, with interesting and intellectually stimulating coworkers</point>
-      <!-- <point>Regular automated builds, with failing builds fixed quickly</point>
-      <point>We know our test coverage percentage, and other code quality metrics</point>
-      <point>Programming in modern high-level OO languages like Ruby and Python, or at least C# and Java</point>
-      <point>Bonus points for rspec, behavior driven development</point>
-      <point>Serious bonus points for automated acceptance tests that are created or maintained by product managers, executives, or clients</point> -->
-      <!-- 
-        startup
-        low mgmt hierarchy levels
-        agile support all the way up 
-        open source contributing
-      -->
+      <point>Projects making a positive impact on the world</point>
+      <point>Bonus points for open source &amp; open IP friendly environments</point>
+      <point>A collaborative, mutually supportive, creative environment and team</point>
     </points>
   </section> 
 
   <section name="Experience">
+    <job>
+      <title>Engineering Lead (Passion Project)</title>
+      <company>Enlightend Structure</company>
+      <location>San Francisco, CA</location>
+      <startDate>January 2009</startDate> 
+      <endDate>Present</endDate>
+      <points>
+        <point>Developing end-to-end proof of concept projects, including underlying infrastructure, for a <link href="http://enlightenedstructure.org/Software_Zero/">Software Zero</link> of global-scale collaboration system</point>
+      </points>
+    </job>
     <job>
       <title>Director of Engineering</title>
       <company>zozi</company>
@@ -195,42 +171,15 @@
   <point>Designed and coded Java desktop app to generate on the fly tutorials from XML instruction sets</point>
 </points>
 </job>
-<!-- <job>
-  <title>Graphic Designer</title>
-  <company>Clairvision</company>
-  <location>Sydney, Australia</location>
-  <startDate>1998</startDate> 
-  <endDate>1999</endDate>
-  <points>
-    <point>Designed and created internationally published book cover, using 2D and 3D software tools</point>
-    <point>Photographed and digitally edited educational slide shows</point>
-    <point>Designed and created packaging for educational CD-ROMs</point>
-  </points>
-</job> -->
-<!-- <job>
-<title>Various Past Lives</title>
-<points>
-  <point>Personal Development Instructor</point>
-  <point>Runaway Teen Counselor</point>
-  <point>Actor</point>
-  <point>Photographer</point>
-</points>
-</job> -->
 </section>          
 
 <section name="Strengths">
   <points>
-    <point>Flexibility</point>
-    <point>Enthusiasm</point>
-    <point>Lateral thinking</point>
-    <point>High degree of motivation</point>
-    <point>Organized, focussed, strive for zero backlog</point>
-    <point>Desire to make luminous software experiences</point>
-    <point>Not fixed on my own ideas; always open to change when a superior solution is available</point>
-    <point>I think carefully about interface design, not just from the developer's point of view, but from the user's</point>
-    <point casual="1">A balanced human with a social life, a love of art and theater, yoga, and meditation, as well as cutting edge technology</point>
-    <point>Inspired about software best practices, like eliminating code duplication; building simple, rapid prototypes; rigorous automated testing</point>
-    <point>I try to be as awake as possible in all areas of my life. At work this means: taking ownership where appropriate; questioning assumptions; lateral thinking; openness to unexpected directions</point>
+    <point>Enthusiasm, flexibility, lateral thinking</point>
+    <point>Open to change when a superior solution is available</point>
+    <point>Committed to making luminous software experiences</point>
+    <point>Questioning assumptions, openness to unexpected directions</point>
+    <point>Genuine interest in interface, from the point of view of the user</point>
   </points>
 </section> 
 
@@ -239,42 +188,60 @@
     <technology>Ruby</technology> 
     <technology>Rails</technology> 
     <technology>RSpec</technology> 
-    <technology>regular expressions</technology> 
-    <technology>bash</technology> 
+    <technology>Cucumber</technology> 
     <technology>Git</technology> 
-    <technology>Unix</technology> 
-    <technology>OSX</technology> 
+    <technology>Bash</technology> 
+    <technology>Travis CI</technology> 
     <technology>Jenkins</technology> 
+    <technology>I &lt;3 regular expressions</technology> 
   </level> 
   <level name="Conversant"> 
-    <technology>coffeescript</technology> 
-    <technology>sinatra</technology> 
-    <technology>d3</technology> 
-    <technology>Python</technology>
+    <technology>Sinatra</technology> 
+    <technology>CoffeeScript</technology> 
+    <technology>JavaScript</technology> 
+    <technology>D3</technology> 
     <technology>CSS</technology> 
     <technology>SQL</technology> 
-    <technology>JavaScript</technology> 
-    <technology>CruiseControl</technology> 
   </level> 
   <level name="Functional"> 
     <technology>node.js</technology> 
-    <technology>Photoshop &#38; Gimp</technology> 
-    <technology>XSLT</technology> 
-    <technology>Grinder</technology> 
-    <technology>JMeter</technology> 
+    <technology>Python</technology>
     <technology>Java</technology> 
     <technology>C#</technology> 
     <technology>C++</technology> 
     <technology>PHP</technology> 
     <technology>ActionScript</technology> 
+    <technology>Photoshop &#38; Gimp</technology> 
+    <technology>XSLT</technology> 
+    <technology>Grinder &#38; JMeter</technology> 
   </level> 
 </technologies> 
 
 <section name="Education &#38; Conferences">
   <points>
     <point>
+      <trainingType>Wisdom 2.0</trainingType>  
+      <trainingDetails>Mountain View, CA, 2013</trainingDetails>
+    </point>
+    <point>
+      <trainingType>McCarthy BootCamp</trainingType>  
+      <trainingDetails>San Diego, CA, 2012</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Federated Social Web Summit</trainingType>  
+      <trainingDetails>San Francisco, CA, 2012</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Internet Identity Workshop</trainingType>  
+      <trainingDetails>Mountain View, CA, 2012</trainingDetails>
+    </point>
+    <point>
       <trainingType>Startup Weekend</trainingType>  
-      <trainingDetails>Self Organizing, San Francisco, CA, 2009 &amp; 2010</trainingDetails>
+      <trainingDetails>San Francisco, CA, 2009 &amp; 2010</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Wisdom 2.0</trainingType>  
+      <trainingDetails>Mountain View, CA, 2010</trainingDetails>
     </point>
     <point>
       <trainingType>Presenting Data &amp; Information</trainingType>  
@@ -347,6 +314,17 @@
 </section> 
 
 <section name="Recommendations">
+
+  <testimonial>
+    <testimonialText>
+      <attention>Harlan is a creative systems Wizard. </attention>
+      <general>His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan is my first choice for consultation, creation of a critical-path, and implementation of the project.</general>
+    </testimonialText>
+    <clientName>Adam Apollo</clientName>
+    <clientTitle>Creative Systems Architect</clientTitle>
+    <company>Access Granted, Inc</company>
+    <testimonialUnedited>Harlan is a creative systems Wizard. His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan would be (and is) my first choice for consultation, creation of a critical-path, and implementation of the project.</testimonialUnedited>
+  </testimonial>
 
   <testimonial>
     <testimonialText>                                
@@ -427,63 +405,6 @@
     <testimonialUnedited>Harlan's intelligence, professionalism, talent and genuine interest in software development - not to mention his warmth, wit, and consideration for others - make him an excellent developer, and a pleasure to work with. His considered, lateral and focused approach to his work is a true asset, as is his ability to communicate very effectively. We were sad to see him leave to return to the US. I have no hesitation in recommending Harlan to any organisation seeking a developer, and person, of very high quality.</testimonialUnedited>
   </testimonial>
 
-  <!-- <testimonial>
-    <testimonialText>
-      <general>I feel have an unspoken guarantee with Harlan that </general>
-      <attention>when I bring him an urgent problem, it will be solved, every time</attention>
-      <general>. I've come to rely on his speed and thoroughness. I've been able to call Harlan in at any stage of a project and know he will be able complete the job, cleanly and efficiently.</general>
-    </testimonialText>
-    <clientName>Patrick Donohoe</clientName>
-    <clientTitle>Director</clientTitle>
-    <company>Peartruck Design</company>
-    <testimonialUnedited>I have an unspoken guarantee with Golden Sun that when I bring them an urgent problem it will be solved, every time. I've really come to rely on their speed and reliability. I've been able to call Golden Sun in at any stage of a project and know they will be able complete the job, cleanly and efficiently.</testimonialUnedited>
-  </testimonial> -->
-
-  <!-- <testimonial>
-    <testimonialText>
-      <general>Harlan's work is second to none in the web development industry, he is </general>
-      <attention>efficient, technically adept, and also has a talent for design</attention>
-      <general>, a rare combination in my experience. I would highly recommend him to anyone seeking to create unique, functional and aesthetically pleasing web based products.</general>
-    </testimonialText>
-    <clientName>Hayden Kerr</clientName>
-    <clientTitle>CTO</clientTitle>
-    <company>Freeman Fox</company>
-    <testimonialUnedited>
-      21st November 2005
-      To whom it may concern,
-      I engaged Harlan Wood and his company Golden Sun Solutions as a contractor to develop parts of our corporate website, re-design the entire site, and also to develop online web based applications to drive different sections of our website. 
-      Harlan's work is second to none in the web development industry, he is efficient, technically adept, and also has a talent for design, a rare combination in my experience. I would highly recommend him to anyone seeking to create unique, functional and aesthetically pleasing web based products.
-      Should you need to contact me to provide any further information please use the contact details below.
-      Best Regards
-      Hayden Kerr
-      +643 8636 3403
-      hayden.kerr@tricom.com.au
-    </testimonialUnedited>
-  </testimonial> -->
-
-  <!-- <testimonial>
-    <testimonialText>
-      <attention>Harlan is a creative systems Wizard. </attention>
-      <general>His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan would be (and is) my first choice for consultation, creation of a critical-path, and implementation of the project.</general>
-    </testimonialText>
-    <clientName>Adam Apollo</clientName>
-    <clientTitle>Creative Systems Architect</clientTitle>
-    <company>Access Granted, Inc</company>
-    <testimonialUnedited>Harlan is a creative systems Wizard. His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan would be (and is) my first choice for consultation, creation of a critical-path, and implementation of the project.</testimonialUnedited>
-  </testimonial> -->
-
-  <!-- <testimonial>
-    <testimonialText>
-      <general>Harlan demonstrated a </general>
-      <attention>high level of motivation and genuine concern</attention>
-      <general> for the work he did at Genentech, allowing us to increase the complexity and quantity of projects assigned to him.   He often worked with our UNIX system administrator and our technical lead on projects that either automated current processes or helped our computer systems run more smoothly.</general>
-    </testimonialText>
-    <clientName>Todd Trundle</clientName>
-    <clientTitle>Supervisor</clientTitle>
-    <company>Genentech</company>
-    <testimonialUnedited> ... Harlan demonstrated a high level of motivation and genuine concern for the work he did at Genentech, allowing us to increase the complexity and quantity of projects assigned to him. He often worked with our UNIX system administrator and our technical lead on projects that either automated current processes or helped our computer systems run smoother.</testimonialUnedited>
-  </testimonial> -->
-
   <testimonial>
     <testimonialText>
       <general>Harlan is </general>
@@ -496,42 +417,17 @@
     <testimonialUnedited>Harlan is one of the most intelligent and talented people I have taught in 24 years of teaching at UTS.  He studied a number of my computer graphics electives, where he was an enthusiastic and imaginative student with outstanding programming abilities. But it wasn't only in computer graphics that Harlan excelled; his academic record demonstrates how he excelled across a wide range of information technology areas. He is also an experienced web developer with experience running his own company. Harlan is an outstanding person who is friendly, outgoing, and articulate. He would make an excellent employee. You should grab him before somebody else does.</testimonialUnedited>
   </testimonial>
 
-  <!-- <testimonial>
+  <testimonial>
     <testimonialText>
-      <general>We engaged Harlan with the intention of dressing up our existing web site, and received much more than we expected. He brought with him them a love for his work, great enthusiasm, and an </general>
-      <attention>incisive and creative mind, efficiently transforming concepts to working reality</attention>
-      <general>. Post delivery, he retained a close interest in our web site, and worked with us to develop exciting additional functionality.</general>
+      <general>I feel have an unspoken guarantee with Harlan that </general>
+      <attention>when I bring him an urgent problem, it will be solved, every time</attention>
+      <general>. I've come to rely on his speed and thoroughness. I've been able to call Harlan in at any stage of a project and know he will be able complete the job, cleanly and efficiently.</general>
     </testimonialText>
-    <clientName>Joe Zeaiter</clientName>
+    <clientName>Patrick Donohoe</clientName>
     <clientTitle>Director</clientTitle>
-    <company>Academy Tiles</company>
-    <testimonialUnedited>Harlan was engaged with the intention of just dressing up our existing website, but we received much more than we expected. Harlan brought with him a love for his work, great enthusiasm, and an incisive and creative mind. He efficiently transformed concepts to working reality, creating an aesthetically pleasing new website. Post delivery he retained a close interest in the website, convincing us with sheer enthusiasm to add some exciting functionality. He is a warm person with outstanding professional skills and vision.</testimonialUnedited>
-  </testimonial> -->
-
-  <!-- <testimonial>
-    <testimonialText>
-      <general>I have had the pleasure of having Harlan in my Game Design and Game Programming classes. Harlan is one of the few students who has </general>
-      <attention>outstanding technical and personal skills</attention>
-      <general>. He is an excellent programmer, and will easily master new languages and technologies . Harlan is innovative, has run his own business for a number of years, organized, and communicates his ideas clearly and effectively.</general>
-    </testimonialText>
-    <clientName>Dr. Yusuf Pisan</clientName>
-    <clientTitle>Senior Lecturer</clientTitle>
-    <company>University of Technology, Sydney</company>
-    <testimonialUnedited>I have had the pleasure of having Harlan in my Game Design and Game Programming classes. Harlan is one of the few students who has outstanding technical and personal skills. He is an excellent programmer with a good grasp of C++, Java, XML, JavaScript and will easily master new languages and technologies . Harlan is innovative, has run his own business for a number of years, organized, and communicates his ideas clearly and effectively. Harlan's skills and energy would be a great benefit the Google team.</testimonialUnedited>
-  </testimonial> -->
-
-  <!-- <testimonial>
-    <testimonialText>
-      <general>Harlan's </general>
-      <attention>quick initiative and energy</attention>
-      <general> is inspiring!</general>
-    </testimonialText>
-    <clientName>Angie Ross</clientName>
-    <clientTitle>Creative Director</clientTitle>
-    <company>Spellbound Creative</company>
-    <testimonialUnedited>GSS was a fantastic solution to our IT and Internet requirements. Harlan helped one of our major clients save money on a regular email blast which in turn boosted our relationship. Their quick initiative and energy is inspiring. Golden Sun Solutions is the perfect solution for anything IT!</testimonialUnedited>
-  </testimonial> -->
-
+    <company>Peartruck Design</company>
+    <testimonialUnedited>I have an unspoken guarantee with Golden Sun that when I bring them an urgent problem it will be solved, every time. I've really come to rely on their speed and reliability. I've been able to call Golden Sun in at any stage of a project and know they will be able complete the job, cleanly and efficiently.</testimonialUnedited>
+  </testimonial>
 
 </section> 
 
