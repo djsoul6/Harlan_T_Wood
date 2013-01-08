@@ -20,14 +20,11 @@
     
     <subsection>
       <points>
-        <point>Co-founder of <link href="http://enlightenedstructure.org/">Enlightened Structure</link>; lead developer of <link href="http://enlightenedstructure.org/Software_Zero/">Software Zero</link> collaboration platform</point>
-        
-        <point>Active contributor to open source projects, notably Ward Cunningham's Smallest Federated Wiki <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204">[1]</link> <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/221">[2]</link></point>
-        <point>Agile development &#38; coaching: test driven development, pair programming, etc</point>
-        <point>Specializing in Ruby on Rails</point>
-        <point>Project management emphasizing simplicity and transparency</point>
-        <point>Continuous integration, outputting metrics and visualizations</point>
-        <point>Lightweight, just-in-time planning and scoping</point>
+        <point>Co-founder of <link href="http://enlightenedstructure.org/">Enlightened Structure</link>; lead developer of <link href="http://enlightenedstructure.org/Software_Zero/">Software Zero</link> collaboration platform</point>        
+        <point>Active contributor to open source projects, notably Ward Cunningham's Smallest Federated Wiki (adding <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/204">CouchDB</link> and <link href="https://github.com/WardCunningham/Smallest-Federated-Wiki/pull/221">Heroku</link> support)</point>
+        <point>Agile development &#38; coaching: test driven development, pair programming, continuous integration...</point>
+        <point>Complete end-to-end setup for new projects, from planning to deployment</point>
+        <point>Specializing in Ruby, Rails, RSpec, Cucumber</point>
       </points>
     </subsection> 
 
@@ -54,28 +51,40 @@
 
   <section name="Experience">
     <job>
-      <title>Engineering Lead (Passion Project)</title>
+      <title>Principal</title>
       <company>Enlightend Structure</company>
       <location>San Francisco, CA</location>
-      <startDate>January 2009</startDate> 
+      <startDate>January 2008</startDate> 
       <endDate>Present</endDate>
       <points>
-        <point>Developing end-to-end proof of concept projects, including underlying infrastructure, for a <link href="http://enlightenedstructure.org/Software_Zero/">Software Zero</link> of global-scale collaboration system</point>
+        <point>Prototyping multiple iterations of <link href="http://enlightenedstructure.org/Software_Zero/">global-scale collaboration system</link></point>
+        <point>Prototyping radial interfaces for visualizing and navigating information structured in arbitrary graphs</point>
+        <point>Networking with thought leaders, visionaries, and developers working on related projects</point>
       </points>
     </job>
     <job>
       <title>Director of Engineering</title>
-      <company>zozi</company>
+      <company>Zozi</company>
       <location>San Francisco, CA</location>
       <startDate>August 2011</startDate> 
       <endDate>February 2012</endDate>
+      <points>
+        <point>Hands-on software development and system administration: <em>Ruby on Rails</em>, RSpec, Cucumber, JavaScript, JQuery, Jasmine, haml, sass, Chef, Jenkins</point>
+        <point>Balancing team culture of software craftsmanship with business realities and deadlines</point>
+        <point>Screening and interviewing ongoing pipeline of developer candidates</point>
+      </points>
     </job>
     <job>
       <title>Senior Developer</title>
-      <company>zozi</company>
+      <company>Zozi</company>
       <location>San Francisco, CA</location>
       <startDate>February 2010</startDate> 
       <endDate>August 2011</endDate>
+      <points>
+        <point>Full time test-driven pair programming using <em>Ruby on Rails</em>, RSpec, Cucumber, JavaScript, JQuery, Jasmine, haml, sass, Chef, Jenkins</point>
+        <point>Creation and maintenance of information radiators to increase team effectiveness</point>
+        <point>Creation of systems for automted server deployment</point>
+      </points>
     </job>
     <job>
       <title>Agile Software Developer</title>
@@ -90,8 +99,8 @@
       </points>
     </job>
     <job>
-      <title>Project Manager &amp; Senior Software Engineer</title>
-      <company>Internaut Design (Contractor)</company>
+      <title>Senior Software Engineer; Project Manager</title>
+      <company>Internaut Design</company>
       <location>San Francisco, CA</location>
       <startDate>February 2008</startDate> 
       <endDate>September 2008</endDate>
@@ -109,17 +118,17 @@
       <startDate>August 2006</startDate> 
       <endDate>February 2008</endDate>
       <points>  
-        <point>Initiated and implemented department-wide unit testing frameworks: <em>JUnit and CxxTest</em>, hooked into <em>CruiseControl</em></point>
+        <point>Initiated and implemented department-wide unit testing frameworks: JUnit and CxxTest, hooked into CruiseControl</point>
         <point><added date="2007-08">Provided technical leadership in areas of build, testing, and metrics</added></point>
         <point><added date="2007-08"><em>Managed</em> junior developers, achieving win-win solutions from sometimes challenging situations</added></point>
-        <point><added date="2007-08">Integrated web application functional tests into CruiseControl (using <em>Selenium</em>), in an extensible manner: any number of test suites, from any variety of branches can be run on any target server</added></point>
-        <point>Worked with agile contractors on GWT project using <em>Test Driven Development</em></point>
+        <point><added date="2007-08">Integrated web application functional tests into CruiseControl (using Selenium), in an extensible manner: any number of test suites, from any variety of branches can be run on any target server</added></point>
+        <point>Worked with agile contractors on GWT project using Test Driven Development</point>
         <point>Attended Agile 2007 and presented key learnings to our team</point>
         <point><added date="2007-08">Created, estimated, categorized and prioritized internal development framework improvements, created in a lightweight, flexible task-tracking system</added></point>
         <point><added date="2007-08">Largely self-managed, with appropriate support</added></point>
         <point><added date="2007-08">Strong commitment to both external and self-imposed deadlines</added></point>
-        <point><added date="2007-08">Attended a conference on <em>Continuous Integration</em> (Citcon Dallas), returning with tools for powerful <em>visualizations of quality metrics</em> in a given code base</added></point>
-        <point><added date="2007-08">Implemented unit tests utilizing <em>Behavior Driven Development</em></added></point>
+        <point><added date="2007-08">Attended a conference on Continuous Integration (Citcon Dallas), returning with tools for powerful <em>visualizations of quality metrics</em> in a given code base</added></point>
+        <point><added date="2007-08">Implemented unit tests utilizing Behavior Driven Development</added></point>
         <point><em>Load testing</em> using The Grinder, a Python-based load test recording/scripting tool</point>
       </points>
     </job>
@@ -130,11 +139,11 @@
       <startDate>March 2005</startDate> 
       <endDate>June 2006</endDate>
       <points>
-        <point>Designed and developed web and desktop applications in <em>C#</em></point>
-        <point>Database design and maintenance using <em>SQL Server</em>, Enterprise Manager, Profiler, Query Analyzer</point>
+        <point>Designed and developed web and desktop applications in C#</point>
+        <point>Database design and maintenance using SQL Server, Enterprise Manager, Profiler, Query Analyzer</point>
         <point>Maintained professional contact with Evolutia's major clients</point>
         <point>Initiated, designed, and coded a custom error handling and reporting framework</point>
-        <point>Initiated and developed <em>XSL</em>-based email administration system</point>
+        <point>Initiated and developed XSL-based email administration system</point>
         <point>Coded, tested, and deployed the delicate selective import of tens of thousands of multi-frame prescription images into the live production database</point>
         <point>Coded, tested, and deployed a system to eliminate duplicate orders from live e-commerce database</point>
       </points>
@@ -147,27 +156,23 @@
       <endDate>2005</endDate>
       <points>
         <!--point>Selected and contracted to designers and programmers</point--> 
-        <point>Marketed to and managed projects for a range of clients, including <em>financial services, government agencies</em>, training organizations, and retail ecommerce operations</point> 
-        <point><em>C#</em> back end coding of Camera Store Metasite</point>
-        <point>Created powerful generic "printer friendly page" generator, using <em>C#/ASP.NET</em> regular expressions to strip out printer-unfriendly HTML tags and attributes; created accompanying suite of <em>unit tests</em> and test data</point>
-        <point>Designed and coded <em>C# desktop application</em> to custom-mix audio files utilizing flexible XML-based configuration instructions</point>
-        <point>Coded custom raytracer from scratch using <em>C#</em>, including transparency, refraction index, specular highlights, and support for generic triangle mesh rendering <taskExample url="http://www.thegoldensun.com/art/raytraced/images/sphere%20stack%204%20top.jpg" linkText="Image" width="520" height="525" /></point>
-        <point><em>Unix</em> command line operation of various remote websites</point>
+        <point>Marketed to and managed projects for a range of clients, including financial services, government agencies, training organizations, and retail ecommerce operations</point> 
+        <point>C# back end coding of Camera Store Metasite</point>
+        <point>Created powerful generic "printer friendly page" generator, using C#/ASP.NET regular expressions to strip out printer-unfriendly HTML tags and attributes; created accompanying suite of unit tests and test data</point>
+        <point>Designed and coded C# desktop application to custom-mix audio files utilizing flexible XML-based configuration instructions</point>
+        <point>Coded custom raytracer from scratch using C#, including transparency, refraction index, specular highlights, and support for generic triangle mesh rendering <taskExample url="http://www.thegoldensun.com/art/raytraced/images/sphere%20stack%204%20top.jpg" linkText="Image" width="520" height="525" /></point>
         <point>Created custom e-commerce solutions, allowing clients to add and remove custom data fields through HTML template editing</point>
         <point>Created custom wrappers around existing C++ PDF generation libraries, for web-based generation of large PDF documents</point>
-        <point>Developed custom "email blasting" application, including extensive bounce processing facilities, written in Python, and utilizing <em>Test-Driven Development</em> techniques
+        <point>Developed custom "email blasting" application, including extensive bounce processing facilities, written in Python, and utilizing Test-Driven Development techniques
       </point>
       <point>Dynamically generated of Flash vector images based on user input, utilizing Python CGI and existing SWF generation library <taskExample url="http://www.thegoldensun.com/ming/tobi.swf" linkText="image" width="770" height="530" />
     </point>
     <point>Extended open source Perl shopping cart with Python business logic layer for custom e-commerce solution</point>
-    <point>Coded searchable world atlas, utilizing <em>Python and MySQL</em></point>
-    <point>Developed <em>ASP</em> application to "screen scrape" relevant data from stock market feed using regular expressions; output of intermediate XML format, followed by <em>XSLT</em> conversion to XHTML and plain text versions, for final multi-format email to clients</point>
-    <point>Designed and coded basic <em>3D Game Engine</em> in C++/OpenGL, using <em>unit tests</em>, STL, C++ best practices; implemented first person camera, motion control, BSP trees, and collision detection/response</point>
-    <point>Database-driven <em>ASP/Access/VBA</em> solution for tile shop, showcasing extensive image catalog, including industry-leading cross-browser JavaScript online tile visualization application <!--taskExample url="http://www.academytiles.com.au/asp/multiple_tiles.asp?cat=Glass%20Mosaic&amp;series=Le%20Gemme" linkText="view site" width="770" height="480" /-->          
-  </point>
-  <point>Designed and coded Flash/PHP/MySQL ski resort booking system, using <em>Test Driven Development</em></point>
+    <point>Developed ASP application to "screen scrape" relevant data from stock market feed using regular expressions; output of intermediate XML format, followed by XSLT conversion to XHTML and plain text versions, for final multi-format email to clients</point>
+    <point>Designed and coded basic <em>3D Game Engine</em> in C++/OpenGL, using unit tests, STL, C++ best practices; implemented first person camera, motion control, BSP trees, and collision detection/response</point>
+  <point>Designed and coded Flash/PHP/MySQL ski resort booking system, using Test Driven Development</point>
   <point>Created customized e-commerce solutions for products and course sales, using commercial ASP shopping cart</point>
-  <point>Implemented extensive customizations to <em>ASP/HTML/JavaScript</em> forum software</point>
+  <point>Implemented extensive customizations to ASP/HTML/JavaScript forum software</point>
   <point>Designed and coded Java desktop app to generate on the fly tutorials from XML instruction sets</point>
 </points>
 </job>
@@ -242,10 +247,6 @@
     <point>
       <trainingType>Wisdom 2.0</trainingType>  
       <trainingDetails>Mountain View, CA, 2010</trainingDetails>
-    </point>
-    <point>
-      <trainingType>Presenting Data &amp; Information</trainingType>  
-      <trainingDetails>Edward Tufte, San Francisco, CA, 2009</trainingDetails>
     </point>
     <point>
       <trainingType>Implementing Lean Software Development: Practitioner's course</trainingType>  
