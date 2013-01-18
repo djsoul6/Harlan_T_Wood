@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/resmake && scp resume/index.html gs@harlantwood.net:harlantwood.net/resume/
